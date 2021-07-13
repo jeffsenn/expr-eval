@@ -1,6 +1,6 @@
 {
-  "name": "expr-eval-override-member",
-  "version": "2.0.3",
+  "name": "@senn/expr-eval",
+  "version": "1.0.0",
   "description": "Mathematical expression evaluator",
   "main": "dist/bundle.js",
   "module": "dist/index.mjs",
@@ -46,7 +46,7 @@
     "function",
     "parser"
   ],
-  "author": "Matthew Crumley + Jeff Senn",
+  "author": "Jeff Senn but mostly Matthew Crumley",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jeffsenn/expr-eval/issues"
